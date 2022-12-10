@@ -1,7 +1,10 @@
 <h1>this is a header text</h1>
 <h2>this is a header text</h2>
+
 {% if this_user = php %}
-<h3>IMAGINE USING PHP</h3>
-<h4>couldnt be me</h4>
+<p>IMAGINE USING PHP</p>
+<p>couldnt be me</p>
 {% endif %}
-<h5>this is a header text</h5>
+
+<h3>this is a header text</h3>
+<p>this is a paragraph text</p>
